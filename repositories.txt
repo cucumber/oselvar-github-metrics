@@ -1,1 +1,10 @@
-oselvar/connector
+cucumber/cucumber
+cucumber/cucumber-js
+cucumber/cucumber-jvm
+cucumber/cucumber-ruby
+cucumber/cucumber-ruby-core
+cucumber/cucumber-rails
+cucumber/godog
+cucumber/cucumber-jvm-scala
+cucumber/cucumber-electron
+cucumber/microdata
