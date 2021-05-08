@@ -1,4 +1,4 @@
-cucumber/cucumber
+cucumber/common
 cucumber/cucumber-js
 cucumber/cucumber-jvm
 cucumber/cucumber-ruby
